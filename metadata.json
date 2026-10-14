@@ -1,0 +1,6 @@
+{
+  "name": "Gorilla with a Fork - High-Stakes Rogue-like",
+  "description": "Battle swarms of coughing babies in a high-stakes, physics-based rogue-like arena featuring procedural nursery dungeons, unlockable battle utensils, and elastic kinetic combat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
